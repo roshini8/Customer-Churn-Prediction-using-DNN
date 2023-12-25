@@ -62,3 +62,6 @@ for num_neurons in neurons:
 print('\nComparison')
 for i, num_neurons in enumerate(neurons):
     print(f"Accuracy (Neurons={num_neurons}): {accuracies[i]}")
+
+
+
